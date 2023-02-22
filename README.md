@@ -4,7 +4,9 @@ www.patika.dev
 
 
 public class AsalSayilar {
+
     public static void main(String[] args) {
+    
         int i, j;
         boolean isPrime;
 
